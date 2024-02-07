@@ -29,3 +29,9 @@ I'm a Front End web developer HTML, CSS, JS.
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <div/>
 
+
+<div align="left">
+<a href="https://github.com/cod3rafael">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cod3rafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div/>
+
