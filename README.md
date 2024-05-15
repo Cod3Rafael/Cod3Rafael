@@ -9,7 +9,7 @@
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**;
 - 👨‍🎓 Cursando **Enhenharia de Software** ;
-- 🖥️ Amante da tecnologia apaixonado por programação;
+- 🖥️ Amante da tecnologia e apaixonado por programação;
 - ⚡ Atualmente estudando para ser um **desenvolvedor .NET**; 
   
 <h3 align="left">Connect with me:</h3>
