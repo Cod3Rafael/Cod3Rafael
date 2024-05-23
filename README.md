@@ -13,7 +13,7 @@ Atualmente trabalho com suporte de ti em sistema de gestão **ERP Winthor totvs*
 -Amante da tecnologia e apaixonado por programação;               
 -Dedicando os estudos e aprimorando para ser um desenvolvedor **.NET**;           
 
-{⚡soft skills : 
+{⚡Soft Skills : 
 **.NET; C#; Angular; SQLserver; Git; Docker;**
 }
   
