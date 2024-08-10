@@ -9,8 +9,7 @@
 
 Trabalho com suporte de ti em sistema de gestão **ERP Winthor totvs**.
 
--Formado em **Análise e Desenvolvimento de Sistemas**;                
--Cursando Enhenharia de Software ;            
+-Formado em **Análise e Desenvolvimento de Sistemas**;                           
 -Amante da tecnologia e apaixonado por programação;               
 -Dedicando os estudos e aprimorando para ser um desenvolvedor **.NET**;           
 
