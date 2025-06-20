@@ -9,8 +9,7 @@
 Trabalho com suporte de ti em sistema de gestão **ERP Winthor totvs**.
 
 -Formado em **Análise e Desenvolvimento de Sistemas**;                           
--Amante da tecnologia e apaixonado por programação;               
--Dedicando os estudos e aprimorando para ser um desenvolvedor.           
+         
 
   
   
@@ -22,15 +21,7 @@ Trabalho com suporte de ti em sistema de gestão **ERP Winthor totvs**.
 <a href="https://instagram.com/faelalbuqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faelalbuqq" height="30" width="40" /></a></p>
 📧 faelalbuqq@gmail.com
   
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<a href="https://skillicons.dev"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://skillicons.dev"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://skillicons.dev"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
-<a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-<a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://skillicons.dev"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+
 
 
 
